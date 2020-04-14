@@ -2,4 +2,4 @@
 	"classification": "testdata/classification.mat",
 	"parc": "testdata/parc.nii.gz",
 	"label": "testdata/label.json"
-
+}
